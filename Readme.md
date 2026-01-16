@@ -17,7 +17,8 @@
 
 ```bash
 git clone https://github.com/ROMAN6873456/password-generator-cli.git
-cd password-generator-cli```
+cd password-generator-cli
+```
 
 ## Примеры запуска
 ```bash
