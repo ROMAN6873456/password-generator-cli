@@ -22,7 +22,7 @@ cd password-generator-cli
 
 ## Примеры запуска
 ```bash
-python main.py --length 16 –symbols
+python main.py --length 16 -–symbols
 ```
 ##Параметры
 
