@@ -26,5 +26,5 @@ def main():
     print(f"Сгенерированный пароль: {password}")
 
 
-if name == "main":
+if __name__ == "__main__":
     main()
