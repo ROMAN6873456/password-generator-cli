@@ -37,13 +37,15 @@ python main.py --length 16 –symbols
 --symbols — включить специальные символы
 
 ##Структура проекта
+```bash
 password-generator-cli/
-├── Readme.md
-├── .gitignore
-├── requirements.txt
-├── main.py
-└── src/
-    └── generator.py
+├── Readme.md - описание проекта, гайд для пользователя.
+├── .gitignore - файл с правилами исключения. 
+├── requirements.txt - файл с описанием зависемостей.
+├── main.py - приложение.
+└── src/ - дополнительные модули
+    └── generator.py - модуль создания пароля.
+```
 
 ## Автор 
 Курлыков Роман Дмитриевич
